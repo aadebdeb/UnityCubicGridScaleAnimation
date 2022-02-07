@@ -3,5 +3,12 @@
     "version": "1.0.0",
     "displayName": "Cubic Grid Scale Animation",
     "description": "Create cubic grid of game objects and animate their scales.",
-    "license": "MIT"
+    "license": "MIT",
+    "samples": [
+        {
+          "displayName": "Simple",
+          "description": "Simple sample of CubicGridScaleAnimation",
+          "path": "Samples~/Simple"
+        }
+      ]
 }
