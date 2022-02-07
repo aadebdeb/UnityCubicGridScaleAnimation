@@ -1,0 +1,7 @@
+{
+    "name": "com.aadebdeb.cubicgridscaleanimation",
+    "version": "1.0.0",
+    "displayName": "Cubic Grid Scale Animation",
+    "description": "Create cubic grid of game objects and animate their scales.",
+    "license": "MIT"
+}
